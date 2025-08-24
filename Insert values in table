@@ -1,0 +1,11 @@
+INSERT INTO STUDENT (ID, NAME, AGE, GRADE, CITY)
+VALUES (1, 'Usman', 20, 'A', 'Faisalabad');
+  
+INSERT INTO STUDENT (ID, NAME, AGE, GRADE, CITY)
+VALUES (2, 'Maaz', 19, 'B', 'Faisalabad');
+    
+INSERT INTO STUDENT (ID, NAME, AGE, GRADE, CITY)
+VALUES (3, 'Ahmed', 22, 'D', 'Lahore');
+
+INSERT INTO STUDENT (ID, NAME, AGE, GRADE, CITY)
+VALUES (4, 'Saqib', 23, 'c', 'Karachi');
